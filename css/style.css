@@ -1,12 +1,43 @@
-h1 {
-  font-family: 'Dancing Script', cursive;
-  text-align: left;
+body {
+  text-align: center;
+}
+
+#journey {
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  text-align: center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  font-family: 'Handlee', cursive;
+  text-align: center;
 }
 
 .welcome-img {
-  align-items: left;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
 
 .welcome-txt {
-  text-align: left;
+  text-align: center;
+}
+
+.welcome {
+  background-color: #F5EBEB;
+}
+.main-options {
+  background-color: #E4D0D0;
+}
+.options {
+  height: 200px;
+}
+.contact-me {
+  background-color: #F5EBEB;
 }
